@@ -1,9 +1,9 @@
 # ASR-Bias-Computational-Analysis
 How do automated transcription biases influence downstream computational social science tasks such as sentiment analysis, misinformation detection, and stance classification on social media?
 
-Link:https://drive.google.com/drive/folders/1gE8Sihnfq9fvp26-9-CxMwwDJitkOmue?usp=sharing
-
 ## PROJECT STRUCTURE OVERVIEW
+
+**Drive link:** https://drive.google.com/drive/folders/1gE8Sihnfq9fvp26-9-CxMwwDJitkOmue?usp=sharing
 This Google Drive folder contains all code, datasets, audio files, processed outputs, and documentation for our project.  
 The complete project report is available on Overleaf:
 
